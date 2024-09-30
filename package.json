@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "Portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "My Portfolio website using react.",
   "source": "src/index.html",
   "homepage": "https://pankajdaksh.github.io/",
   "scripts": {
