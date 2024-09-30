@@ -23,9 +23,7 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+const description ="Highly motivated and detail-oriented .NET developer with a strong academic foundation in Computer Science, holding a B.Sc. degree in the field. With a solid grasp of HTML, CSS, and basic JavaScript, I possess a versatile skill set that enables me to tackle a wide range of web development projects."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -34,8 +32,8 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  // "Focus group testing",
+  "Dot Net",
   "Graphic design",
 ];
 
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. Currently, I am expanding my expertise by exploring the latest advancements in Angular and other emerging technologies. With a passion for staying up-to-date with industry trends, I am committed to delivering innovative solutions that meet the highest standards of quality and excellence.";
 
 const About = () => {
   return (
